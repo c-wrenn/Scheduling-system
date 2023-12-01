@@ -15,7 +15,7 @@ This is a scheduling system intended for workers
 - [Questions](#questions)
 
 ## Usage
-This project utilizes JavaScript.js, HTML, and CSS.
+This project utilizes JavaScript.js, HTML, CSS, and Third-party APIs.
 
 ## Installation
 To install run the command "npm install"
